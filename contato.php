@@ -2,7 +2,7 @@
 include_once("templates/header.php");
 ?>
 <h2>
-    Hello World!
+    Entre em contato
 </h2>
 <?php
 include_once("templates/footer.php");
