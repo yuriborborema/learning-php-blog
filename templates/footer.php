@@ -1,7 +1,5 @@
 <footer>
-    <p>
-        Copyright 2024
-    </p>
+  <p>Hora de Codar &copy; 2024</p>
 </footer>
 </body>
 </html>

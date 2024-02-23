@@ -1,9 +1,7 @@
 <?php
-include_once("templates/header.php");
+  include_once("templates/header.php");
 ?>
-<h2>
-    Entre em contato
-</h2>
+  <h1>Página de contato</h1>
 <?php
-include_once("templates/footer.php");
+  include_once("templates/footer.php")
 ?>
